@@ -1,14 +1,23 @@
 ### DESIGN
 
 • Design for Manufacturability (DFM) - Ensuring that the product can be manufactured efficiently and effectively.
+
 • Design for Assembly (DFA) - Simplifying the assembly process to increase efficiency and reduce errors.
+
 • Design for Six Sigma (DFSS) - Utilizing Six Sigma methodologies in the product design process to minimize defects.
+
 • Concurrent Engineering - Integrating the design, development, and production processes to improve quality and reduce lead times.
+
 • Total Quality Management (TQM) - Ensuring that quality is built into the design of the product from the beginning.
+
 • Value Engineering - Identifying and reducing unnecessary costs in the design process without sacrificing quality or function.
+
 • Kansei Engineering - Designing products to elicit emotional responses from customers.
+
 • Human-Centered Design - Focusing on the needs and experiences of the end user throughout the design process.
+
 • Design Thinking - A creative problem-solving approach that emphasizes empathy, experimentation, and iteration.
+
 • Lean Design - Applying the principles of Lean Manufacturing to the design process to reduce waste and increase efficiency.
 
 Here are 7 methods that I recommend:
